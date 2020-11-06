@@ -1,0 +1,13 @@
+1 .create a directory -done 
+2.Create a NPM project and install all dependencies - done
+    -dependencies
+        -express
+        -ejs express-ejs-layouts
+    -Dev dependencies
+        -nodemon
+3.Create Express Server - Create a Server.js file -done 
+4.Create Home Page using Html and Css
+    -include tailwind Css
+5. Git Setup and first commit - done 
+6.Install Laravel Mix 
+    -setup js and scss
