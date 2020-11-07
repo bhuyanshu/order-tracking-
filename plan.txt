@@ -9,5 +9,7 @@
 4.Create Home Page using Html and Css
     -include tailwind Css
 5. Git Setup and first commit - done 
-6.Install Laravel Mix 
-    -setup js and scss
+6.Install Laravel Mix  -done
+    -setup js and scss 
+7.Install Tailwind css -done 
+8.Need to know favicon.io
