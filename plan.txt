@@ -12,4 +12,9 @@
 6.Install Laravel Mix  -done
     -setup js and scss 
 7.Install Tailwind css -done 
-8.Need to know favicon.io
+8.Create Home Page using Html and Css 
+9.Create Cart Page 
+    -order summary section 
+    -empty cart Section 
+    -move routes to route files
+    -create dedicated cont
