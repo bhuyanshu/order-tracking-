@@ -17,4 +17,17 @@
     -order summary section 
     -empty cart Section 
     -move routes to route files
-    -create dedicated cont
+    -create dedicated controllers
+10.add cart Functionality 
+    -connect to mongodb
+    -use connect-mango for session store
+        -dependencies
+            -mongoose,express-session,connect-mongo,dotenv
+    -axios to send ajax request 
+    -install notification library npm i noty 
+11.Create Order controllers and link it in Server.js
+12.Create Orders view with table for customer and admin 
+13.Create Orders single page with status
+14.Create login page with route
+15.Create register page with route
+16.Build register crud
